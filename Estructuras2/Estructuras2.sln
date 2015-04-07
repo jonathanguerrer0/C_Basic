@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Estructuras2", "Estructuras2\Estructuras2.vcxproj", "{189A5320-1DC2-4A94-9BF9-E74039A7BB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189A5320-1DC2-4A94-9BF9-E74039A7BB5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{189A5320-1DC2-4A94-9BF9-E74039A7BB5D}.Debug|Win32.Build.0 = Debug|Win32
+		{189A5320-1DC2-4A94-9BF9-E74039A7BB5D}.Release|Win32.ActiveCfg = Release|Win32
+		{189A5320-1DC2-4A94-9BF9-E74039A7BB5D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

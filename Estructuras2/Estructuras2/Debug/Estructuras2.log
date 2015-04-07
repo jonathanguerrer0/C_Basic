@@ -1,0 +1,11 @@
+﻿Compilación iniciada a las 01/04/2015 04:50:57 p.m..
+     1>Proyecto "c:\Users\KRYPTOX\documents\visual studio 2012\Projects\Estructuras2\Estructuras2\Estructuras2.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\kryptox\documents\visual studio 2012\projects\estructuras2\estructuras2\source.cpp(22): error C4716: '`main'::`2'::Hogar::guardaDir' : debe devolver un valor
+     1>Compilación del proyecto terminada "c:\Users\KRYPTOX\documents\visual studio 2012\Projects\Estructuras2\Estructuras2\Estructuras2.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.98

@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 31/03/2015 10:38:36 p.m..
+     1>Proyecto "c:\Users\KRYPTOX\documents\visual studio 2012\Projects\Constantes\Constantes\Constantes.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\kryptox\documents\visual studio 2012\Projects\Constantes\Release\Constantes.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\kryptox\documents\visual studio 2012\Projects\Constantes\Release\Constantes.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\kryptox\documents\visual studio 2012\Projects\Constantes\Release\Constantes.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Generando código
+         Generación de código finalizada
+         Constantes.vcxproj -> c:\users\kryptox\documents\visual studio 2012\Projects\Constantes\Release\Constantes.exe
+     1>Compilación del proyecto terminada "c:\Users\KRYPTOX\documents\visual studio 2012\Projects\Constantes\Constantes\Constantes.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.54

@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 01/04/2015 02:59:02 p.m..
+     1>Proyecto "c:\Users\KRYPTOX\documents\visual studio 2012\Projects\Define\Define\Define.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(19): error C2065: 'a' : identificador no declarado
+     1>Source.cpp(19): error C2065: 'b' : identificador no declarado
+     1>Source.cpp(19): error C2146: error de sintaxis : falta ';' delante del identificador 'a'
+     1>Source.cpp(19): error C3861: 'b': no se encontró el identificador
+     1>Source.cpp(20): error C2065: 'a' : identificador no declarado
+     1>Source.cpp(20): error C2065: 'b' : identificador no declarado
+     1>Source.cpp(20): error C2146: error de sintaxis : falta ';' delante del identificador 'a'
+     1>Source.cpp(20): error C3861: 'b': no se encontró el identificador
+     1>Source.cpp(21): error C2065: 'a' : identificador no declarado
+     1>Source.cpp(21): error C2065: 'b' : identificador no declarado
+     1>Source.cpp(21): error C2146: error de sintaxis : falta ';' delante del identificador 'a'
+     1>Source.cpp(21): error C3861: 'b': no se encontró el identificador
+     1>Compilación del proyecto terminada "c:\Users\KRYPTOX\documents\visual studio 2012\Projects\Define\Define\Define.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.70
